@@ -1,0 +1,18 @@
+{
+    "[php]": {
+        "editor.tabSize"
+    }
+
+    "[html]": {
+        "editor.tabSize"
+    }
+
+    "[javascript]": {
+        "editor.tabSize"
+    }
+
+    "files.insertFinalNewline": true,
+    "editor.fontSize": 24,
+    "editor.lineHeight": 24,
+    "window.zoomLevel" 2
+}
